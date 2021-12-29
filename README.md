@@ -51,4 +51,3 @@ Simpel WhatsApp Bot
 # My Apk
 #### Mt Manager : [`Click Here`](https://m.apkgit.com/app/mt-manager/bin.mt.plus)
 #### Apk Termux : [`Click Here`](https://www.mediafire.com/file/f01sbphqjsd37b3/TermuxMod.apk/file)
-# bakulbotwa
